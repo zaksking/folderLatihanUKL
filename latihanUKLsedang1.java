@@ -18,7 +18,7 @@ public class latihanUKLsedang1 {
                 }
                 
                 System.out.println("Faktorial dari " + n + " adalah:");
-                System.out.println(faktor
+                System.out.println(faktorial);
             }
         }
     }
